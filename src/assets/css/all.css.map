@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,CAAC,CAAC;EACA,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,IAAI;EAChB,MAAM,EAAE,CAAC;CACV",
+    "sources": [
+        "all.scss",
+        "dashboard.scss"
+    ],
+    "names": [],
+    "file": "all.css"
+}

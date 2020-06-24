@@ -1,0 +1,21 @@
+export default {
+    latestNews: "最新消息",
+    publicCloudService: "公有雲服務",
+    agent: "代理產品",
+    solutions: "解決方案",
+    maxlabsProduct: "麥斯產品與服務",
+    training: "培訓課程",
+    sharing: "技術分享＆支援",
+   
+    about: "關於麥斯",
+    login: "登入",
+    cloud:"雲端",
+    indexBanner1:'遠端辦公與學習解決方案',
+    indexBanner2:'無論您是要在家辦公或是遠端學習，',
+    indexBanner3:'麥斯創新都為您做好了妥善準備',
+    indexBanner4:'專業的企業顧問服務',
+    indexBanner5:'麥斯多名大型專業經驗的技術顧問',
+    indexBanner6:'提供企業完整解決方案',
+    indexBanner7:'企業最好的技術服務合作夥伴',
+    indexBanner8:'規劃/升級/導入/建議/維運',
+}

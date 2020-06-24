@@ -1,0 +1,31 @@
+//顏色
+$color_lightblue2: rgba(14, 190, 255, 0.5);
+$color_skyblue: rgba(0, 126, 229, 1);
+$color_darkblue: rgba(0, 90, 163, 1);
+$color_blue: rgba(23, 116, 178, 1);
+$color_greenblue:rgb(0, 134, 172);
+$color_greenblue2:rgb(53, 159, 189);
+$color_whiteOpacity1: rgba(255, 255, 255, 0.3);
+$color_whiteOpacity2: rgba(255, 255, 255, 0.8);
+$color_yellow: rgba(248, 185, 64, 1);
+$color_orange: rgba(253, 150, 56, 1);
+$color_gray1: rgba(128, 128, 128, 1);
+$color_gray2: rgba(244, 246, 249, 1);
+
+
+
+
+//圖片
+
+//字型
+
+//效果
+@mixin transition($property, $duration, $timing) {
+    -webkit-transition: $property $duration $timing;
+    -moz-transition: $property $duration $timing;
+    -o-transition: $property $duration $timing;
+    transition: $property $duration $timing;
+}
+
+$gutter: 15px;
+$gutter_half: $gutter / 2;
